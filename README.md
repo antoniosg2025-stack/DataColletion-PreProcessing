@@ -48,3 +48,21 @@ This describes the synthetic sample, not actual market performance.
 ## Other projects
 
 - [DataEngineeringOne](https://github.com/antoniosg2025-stack/DataEngineeringOne)
+
+
+
+
+
+
+
+
+## AI Assistance Disclosure
+
+I used OpenAI ChatGPT/Codex to help interpret the assignment, configure
+the Python environment, develop and explain code, troubleshoot issues,
+and draft documentation. AI assistance included suggestions for synthetic
+data generation, cleaning rules, and validation checks.
+
+I executed the code and reviewed the outputs during development.
+I am responsible for the submitted work and for explaining its methods
+and limitations.
